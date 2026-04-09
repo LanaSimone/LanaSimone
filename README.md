@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Allana 👋
 
-<!--
-**LanaSimone/LanaSimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on building practical, real-world applications using Java and JavaScript, with experience in both desktop and web development.
 
-Here are some ideas to get you started:
+## Projects
+- Job Application Tracker – a full-stack web app built with React, Node.js, Express, and SQLite
+- Rental Listing API Project – a full-stack application with authentication, reviews, and CRUD functionality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- JavaScript
+- React
+- Node.js
+- Express
+- SQLite
+- REST APIs
+
+## Currently Working On
+- Improving and expanding my project portfolio
